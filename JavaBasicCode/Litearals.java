@@ -21,6 +21,7 @@ public class Litearals {
         System.out.println("Character Literal: " + charLiteral);
         System.out.println("String Literal: " + stringLiteral);
         System.out.println("Boolean Literal: " + boolLiteral);
+        
     }
     
 }
