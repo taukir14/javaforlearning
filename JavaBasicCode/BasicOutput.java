@@ -11,6 +11,7 @@ int d = 10;
         System.out.println("2. println "); // moves to the next line
         System.out.print("1. print "); // stays on the same line
         System.out.printf("2. printf %d", d); // stays on the same line
+
     } 
     
 }
